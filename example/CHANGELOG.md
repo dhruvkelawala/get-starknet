@@ -1,5 +1,15 @@
 # get-starknet-example
 
+## 2.1.2
+
+### Patch Changes
+
+- 4ac7eed: fix build
+- c66af54: fix build
+- Updated dependencies [4ac7eed]
+- Updated dependencies [c66af54]
+  - get-starknet@3.0.1
+
 ## 2.1.1
 
 ### Patch Changes
